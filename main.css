@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: url(./pexels-andrey-grushnikov-223358-707667.jpg);
+    min-height: 100vh;
+    background-position: bottom;
+    background-size: cover;
+}
+
+
+
+
+
+
